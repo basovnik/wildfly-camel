@@ -305,7 +305,6 @@ io/swagger/jackson
 io/swagger/jaxrs
 io/swagger/jaxrs/config
 io/swagger/jaxrs/ext
-io/swagger/jaxrs/json
 io/swagger/jaxrs/listing
 io/swagger/jaxrs/utils
 io/swagger/model
